@@ -42,6 +42,7 @@
 									<td>Name</td>
 									<td>Price</td>
 									<td>Year</td>
+									<td>Accion</td>
 								</tr>
 							</thead>
 							<tbody id="product-list">
